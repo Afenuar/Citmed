@@ -1,2 +1,8 @@
 Link repositorio
 https://github.com/Afenuar/Citmed
+
+
+Link repositorio Video reunión Spring Review
+https://youtu.be/8-58IwBRc2o
+
+Nota: cabe recalcar que como fue el primer Sprint solo se solicitó asesoría con el tutor Scrum por WhatsApp correspondiente al proyecto, ya que solo se manejaron temas de conformación de grupo, asignación de roles y selección de proyecto.
