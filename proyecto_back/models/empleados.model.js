@@ -10,4 +10,4 @@ const EmpleadosSchema = new Schema({
     direccion:{type: String, required: false, max:150}
 });
 
-module.experts = mongoose.model("empleados", EmpleadosSchema);
+module.exports = mongoose.model("empleados", EmpleadosSchema);
