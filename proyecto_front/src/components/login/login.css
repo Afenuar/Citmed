@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(136, 214, 245)
+}
+    
+
+#login-container {
+    margin-top: 20%;
+}
+
+#login-container h2,
+#login-container button,
+#login-container form {
+    width: 100%;
+}
+
+#login-container button {
+    margin-top: 15%;
+}
+
+#login-container .Form-Label {
+    float: left;
+}
